@@ -15,7 +15,7 @@ Se le llama rasgos tanto a las habilidades como a los atributos.
 
 Cuentan con los siguientes niveles: 0, d4, d6, d8, d10 y d12.
 
-## Los atributos
+### Los atributos
 
 Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
 
@@ -24,7 +24,7 @@ Dispones de 5 puntos para gastar en mejorarlos.
 Cada punto que gastes aumenta un nivel a un atributo. 
 
 
-## Las habilidades
+### Las habilidades
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
@@ -54,7 +54,7 @@ Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 punto
 
 # Ventajas y desventajas
 
-## Las desventajas
+### Las desventajas
 
 Escoge desventajas que ayuden a definir a tu personaje.
 Anota si tus desventajas alteran algún rasgo.
@@ -70,7 +70,7 @@ Con cada punto de desventajas puedes
  - Subir un punto de habilidad
  - Duplicar los fondos iniciales del personaje.
 
-## Las ventajas
+### Las ventajas
 
 Las ventajas tienen requisitos para poder adquirirse: 
 - Nivel del personaje: 
