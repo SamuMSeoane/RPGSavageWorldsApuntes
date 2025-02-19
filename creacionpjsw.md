@@ -17,7 +17,7 @@ Cuentan con los siguientes niveles: 0, d4, d6, d8, d10 y d12.
 
 ### Los atributos
 
-nota! Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
+nota: Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
 
 Todos empiezan con un d4.
 Dispones de 5 puntos para gastar en mejorarlos.
@@ -28,7 +28,7 @@ Cada punto que gastes aumenta un nivel a un atributo.
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
-nota! Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
+nota: Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
 
 Las demás tienen un nivel inicial de cero. 
 
