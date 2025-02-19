@@ -1,7 +1,7 @@
 {
-    "useSideMenu": true,
+    "useSideMenu": false,
     "lineBreaks": "gfm",
     "additionalFooterText": "Hecho con ilusa ilusión por <a href='https://github.com/SamuMSeoane'>Samu</a><br /> para los Lomos Plateados",
     "anchorCharacter": "&para;",
-    "title": "Apuntes de SW"
+    "title": "Apuntes breves de SW"
 }
