@@ -9,7 +9,7 @@ Sigue esta guía y vamos por partes:
 
 
 # Los Rasgos
-
+------------
 
 Se le llama rasgos tanto a las habilidades como a los atributos.
 
@@ -17,7 +17,7 @@ Cuentan con los siguientes niveles: 0, d4, d6, d8, d10 y d12.
 
 ### Los atributos
 
-Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
+nota! Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
 
 Todos empiezan con un d4.
 Dispones de 5 puntos para gastar en mejorarlos.
@@ -28,7 +28,7 @@ Cada punto que gastes aumenta un nivel a un atributo.
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
-Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
+nota! Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
 
 Las demás tienen un nivel inicial de cero. 
 
@@ -41,7 +41,7 @@ Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 punto
 
 
 # Valores derivados
-
+------------
  - El Paso mide lo rápido que se mueve un personaje en una ronda de combate: 
  --    6 pasos. 
  - El Tamaño mide lo grande que es un personaje:
@@ -53,7 +53,7 @@ Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 punto
 
 
 # Ventajas y desventajas
-
+------------
 ### Las desventajas
 
 Escoge desventajas que ayuden a definir a tu personaje.
@@ -75,13 +75,14 @@ Con cada punto de desventajas puedes
 Las ventajas tienen requisitos para poder adquirirse: 
 - Nivel del personaje: 
 
-N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano;
+nota! N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano;
 
 - Nivel mínimo de rasgo (atributo o habilidad)
 - Ventajas previas
 
 
 # Benis
+------------
 
 Al comienzo de toda sesión de juego, cada jugador recibe tres benis.
 A cambio de un beni, un jugador puede: 
