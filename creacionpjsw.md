@@ -17,7 +17,7 @@ Cuentan con los siguientes niveles: 0, d4, d6, d8, d10 y d12.
 
 ### Los atributos
 
-nota: Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
+note: Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
 
 Todos empiezan con un d4.
 Dispones de 5 puntos para gastar en mejorarlos.
@@ -28,7 +28,7 @@ Cada punto que gastes aumenta un nivel a un atributo.
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
-nota: Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
+note: Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
 
 Las demás tienen un nivel inicial de cero. 
 
@@ -42,14 +42,14 @@ Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 punto
 
 # Valores derivados
 ------------
- - El Paso mide lo rápido que se mueve un personaje en una ronda de combate: 
- --    6 pasos. 
- - El Tamaño mide lo grande que es un personaje:
- --    Entre -1 y 3, lo normal es 0. 
- - La Parada mide lo difícil que es acertar a tu personaje:
- --    2 + La mitad de caras del dado de Pelear.
- - La Dureza mide la capacidad de absorver daño del personaje:
- --    2 + La mitad de caras del dado de Vigor + cualquier protección.
+ - El Paso mide lo rápido que se mueve un personaje en una ronda de combate:   
+     6 pasos.  
+ - El Tamaño mide lo grande que es un personaje:  
+     Entre -1 y 3, lo normal es 0.  
+ - La Parada mide lo difícil que es acertar a tu personaje:  
+     2 + La mitad de caras del dado de Pelear.  
+ - La Dureza mide la capacidad de absorver daño del personaje:  
+     2 + La mitad de caras del dado de Vigor + cualquier protección.  
 
 
 # Ventajas y desventajas
@@ -75,7 +75,7 @@ Con cada punto de desventajas puedes
 Las ventajas tienen requisitos para poder adquirirse: 
 - Nivel del personaje: 
 
-nota! N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano;
+note: N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano;
 
 - Nivel mínimo de rasgo (atributo o habilidad)
 - Ventajas previas
