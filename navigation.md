@@ -1,3 +1,4 @@
+# Apuntes de Savage Worlds
 [gimmick:theme](cyborg)
 [gimmick:themechooser](Choose theme)
 [Inicio](index.md)
