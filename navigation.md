@@ -1,3 +1,4 @@
+[gimmick:theme](cyborg)
 # Apuntes de Savage Worlds
 
 
