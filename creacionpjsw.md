@@ -17,7 +17,7 @@ Cuentan con los siguientes niveles: 0, d4, d6, d8, d10 y d12.
 
 ### Los atributos
 
-Nota: Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
+Tip: Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
 
 Todos empiezan con un d4.
 Dispones de 5 puntos para gastar en mejorarlos.
@@ -28,7 +28,7 @@ Cada punto que gastes aumenta un nivel a un atributo.
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
-Nota: Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
+Tip: Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
 
 Las demás tienen un nivel inicial de cero. 
 
@@ -77,7 +77,7 @@ Las ventajas tienen requisitos para poder adquirirse:
 - Nivel mínimo de rasgo (atributo o habilidad)
 - Ventajas previas
 
-Nota: Los niveles de personaje son  N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano
+Tip: Los niveles de personaje son  N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano
 
 
 
