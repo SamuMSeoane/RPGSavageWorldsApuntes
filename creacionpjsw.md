@@ -92,6 +92,10 @@ A cambio de un beni, un jugador puede:
 
 
 
+      
+
+
+
 
 
 
