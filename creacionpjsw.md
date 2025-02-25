@@ -24,8 +24,8 @@ Dispones de 5 puntos para gastar en mejorarlos.
 Cada punto que gastes aumenta un nivel a un atributo. 
 
 
-Las habilidades
-------------
+### Las habilidades
+
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
@@ -43,13 +43,13 @@ Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 punto
 
 Valores derivados
 ------------
- - El Paso mide lo rápido que se mueve un personaje en una ronda de combate:   
+ - El **Paso** mide lo rápido que se mueve un personaje en una ronda de combate:   
      6 pasos.  
- - El Tamaño mide lo grande que es un personaje:  
+ - El **Tamaño** mide lo grande que es un personaje:  
      Entre -1 y 3, lo normal es 0.  
- - La Parada mide lo difícil que es acertar a tu personaje:  
+ - La **Parada** mide lo difícil que es acertar a tu personaje:  
      2 + La mitad de caras del dado de Pelear.  
- - La Dureza mide la capacidad de absorver daño del personaje:  
+ - La **Dureza** mide la capacidad de absorver daño del personaje:  
      2 + La mitad de caras del dado de Vigor + cualquier protección.  
 
 
@@ -78,10 +78,9 @@ Las ventajas tienen requisitos para poder adquirirse:
 - Nivel mínimo de rasgo (atributo o habilidad)
 - Ventajas previas
 
-Tip: Los niveles de personaje son  N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano
+Tip: Los niveles de personaje son  N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano  
 
-
-
+  
 
 Benis
 ------------
@@ -90,6 +89,11 @@ Al comienzo de toda sesión de juego, cada jugador recibe tres benis.
 A cambio de un beni, un jugador puede: 
  - Repetir una tirada de daño.
  - Repetir una tirada de rasgo.
+
+
+
+
+      
 
 
 
