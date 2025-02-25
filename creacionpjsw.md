@@ -8,7 +8,7 @@ Crear un personaje en Savage Worlds
 Sigue esta guía y vamos por partes:
 
 
-# Los Rasgos
+Los Rasgos
 ------------
 
 Se le llama rasgos tanto a las habilidades como a los atributos.
@@ -24,7 +24,8 @@ Dispones de 5 puntos para gastar en mejorarlos.
 Cada punto que gastes aumenta un nivel a un atributo. 
 
 
-### Las habilidades
+Las habilidades
+------------
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
@@ -40,7 +41,7 @@ Subir una habilidad hasta el nivel de su atributo cuesta 1 punto.
 Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 puntos.
 
 
-# Valores derivados
+Valores derivados
 ------------
  - El Paso mide lo rápido que se mueve un personaje en una ronda de combate:   
      6 pasos.  
@@ -52,7 +53,7 @@ Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 punto
      2 + La mitad de caras del dado de Vigor + cualquier protección.  
 
 
-# Ventajas y desventajas
+Ventajas y desventajas
 ------------
 ### Las desventajas
 
@@ -82,7 +83,7 @@ Tip: Los niveles de personaje son  N= Novato, E= Experimentado, H= Heroico, L= L
 
 
 
-# Benis
+Benis
 ------------
 
 Al comienzo de toda sesión de juego, cada jugador recibe tres benis.
