@@ -60,6 +60,8 @@ Ventajas y desventajas
 Escoge desventajas que ayuden a definir a tu personaje.
 Anota si tus desventajas alteran algún rasgo.
 
+Tienes la lista de desventajas [aquí] (https://samumseoane.github.io/RPGSavageWorldsApuntes/#!desventajas.md)
+
 Por cada desventaja menor cobra un punto y por cada desventaja mayor cobra 2 puntos. 
 Como máximo puedes acumular hasta 4 de estos puntos. 
 
@@ -74,13 +76,12 @@ Con cada punto de desventajas puedes
 ### Las ventajas
 
 Las ventajas tienen requisitos para poder adquirirse: 
-- Nivel del personaje
-- Nivel mínimo de rasgo (atributo o habilidad)
+- Rango del personaje
 - Ventajas previas
+- Nivel mínimo de rasgo (atributo o habilidad)
 
-Tip: Los niveles de personaje son  N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano  
+Tienes la lista de ventajas [aquí] (https://samumseoane.github.io/RPGSavageWorldsApuntes/#!ventajas.md)
 
-  
 
 Benis
 ------------
@@ -89,6 +90,37 @@ Al comienzo de toda sesión de juego, cada jugador recibe tres benis.
 A cambio de un beni, un jugador puede: 
  - Repetir una tirada de daño.
  - Repetir una tirada de rasgo.
+ - Hacer una tirada de absorver daño.
+ - Recuperarse de un aturdimiento.
+
+
+Avances
+-----
+
+Cuando el DJ considere oportuno puede otorgar avances a los jugadores para mejorar al personaje. 
+Con un avance se puede: 
+* Adquirir una ventaja
+* Aumentar una habilidad que esté igual o por encima de su atributo asociado
+* Aumentar dos habilidades que estén por debajo de su atributo asociado
+* Aumentar un atributo en un nivel de dado (sólo una vez por rango).
+* Eliminar permanentemente una desventaja menor.
+* Reducir una desventaja mayor a menor.
+
+Tip: Se pueden "reservar" avances para gastar de golpe, bajo acuerdo con el DJ
+
+
+Rango
+------
+
+La forma de medir el desarrollo de un personaje es por los rangos que alcanza según va ganando avances:
+
+| Avances | Rango | Símbolo |
+| :----: | ---- | :----: |
+| 0-3 | Novato| N |
+|4-7 | Experimentado| E |
+|8-11 |Veterano | V |
+|12-15 |Heroico | H |
+|16+ | Legendario | L |
 
 
 
