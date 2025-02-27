@@ -2,6 +2,7 @@ SUMARIO DE VENTAJAS
 ==========
 
 Note: N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano; 
+
 Note: *= Comodín; AGI= Agilidad, AST= Astucia, ESP= Espíritu, FUE= Fuerza, VIG= Vigor; 
 
 Note: TA= Trasfondo Arcano (usuarios de magia)
@@ -12,7 +13,7 @@ Ventajas para Novatos (N)
 ---------
 
 |VENTAJA  | REQUISITOS | EFECTOS |
-|-------|--------|----------|
+|-------| :-------: |----------|
 |Acaparador | N, Afortunado |1/encuentro, encuentras entre tus pertenencias una pieza de equipo necesaria.|
 |Acróbata |N, AGI d8, Atletismo d8 | Puedes repetir una vez las tiradas de Atletismo basadas en acrobacias.|
 |Afortunado |N |+1 beni al comienzo de cada sesión.|
