@@ -6,8 +6,8 @@
 
 [Listas]()
 
-*[Lista de desventajas](desventajas.md)
-*[Lista de ventajas](ventajas.md)
+* [Lista de desventajas](desventajas.md)
+* [Lista de ventajas](ventajas.md)
 
 [gimmick:themechooser](Escoge aspecto)
 
