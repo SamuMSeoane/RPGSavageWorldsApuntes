@@ -94,9 +94,9 @@ Absorción (de daño)
 
 Cuando un personaje recibe un ataque exitoso puede escoger gastar un *Beni* para hacer una tirada de Absorción.
 Es una tirada de Vigor en la que:
- * si tiene éxito se resta una herida del ataque actual
- * por cada aumento se resta una herida adicional del ataque actual
- * si tras evitar todas las heridas aún le quedan aumentos, se restablece del aturdimiento.
+ * si tiene éxito se resta una herida del ataque actual.  
+ * por cada aumento se resta una herida adicional del ataque actual.  
+ * si tras evitar todas las heridas aún le quedan aumentos, se restablece del aturdimiento.  
 
 Esta tirada es anterior a las penalizaciones por las heridas que puede absorver. 
 
