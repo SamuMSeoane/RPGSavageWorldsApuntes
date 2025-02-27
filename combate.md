@@ -39,9 +39,10 @@ Acciones
 Cosas como hablar, resistirse (con una tirada) o tirarse al suelo no cuentan como acción.
 
 Se pueden hacer:
-* una única acción sin penalizacione
-* dos acciones con un -2 cada una
-* tres acciones con un -4 cada una
+
+- una única acción sin penalizaciones.  
+- dos acciones con un -2 cada una.  
+- tres acciones con un -4 cada una.  
 
 
 
@@ -94,9 +95,10 @@ Absorción (de daño)
 
 Cuando un personaje recibe un ataque exitoso puede escoger gastar un *Beni* para hacer una tirada de Absorción.
 Es una tirada de Vigor en la que:
- * si tiene éxito se resta una herida del ataque actual.  
- * por cada aumento se resta una herida adicional del ataque actual.  
- * si tras evitar todas las heridas aún le quedan aumentos, se restablece del aturdimiento.  
+
+* si tiene éxito se resta una herida del ataque actual.  
+* por cada aumento se resta una herida adicional del ataque actual.  
+* si tras evitar todas las heridas aún le quedan aumentos, se restablece del aturdimiento.  
 
 Esta tirada es anterior a las penalizaciones por las heridas que puede absorver. 
 
