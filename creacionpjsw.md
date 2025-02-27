@@ -60,7 +60,7 @@ Ventajas y desventajas
 Escoge desventajas que ayuden a definir a tu personaje.
 Anota si tus desventajas alteran algún rasgo.
 
-Tienes la lista de desventajas [aquí] (https://samumseoane.github.io/RPGSavageWorldsApuntes/#!desventajas.md)
+Tienes la lista de desventajas [aquí](https://samumseoane.github.io/RPGSavageWorldsApuntes/#!desventajas.md)
 
 Por cada desventaja menor cobra un punto y por cada desventaja mayor cobra 2 puntos. 
 Como máximo puedes acumular hasta 4 de estos puntos. 
@@ -80,7 +80,7 @@ Las ventajas tienen requisitos para poder adquirirse:
 - Ventajas previas
 - Nivel mínimo de rasgo (atributo o habilidad)
 
-Tienes la lista de ventajas [aquí] (https://samumseoane.github.io/RPGSavageWorldsApuntes/#!ventajas.md)
+Tienes la lista de ventajas [aquí](https://samumseoane.github.io/RPGSavageWorldsApuntes/#!ventajas.md)
 
 
 Benis
@@ -99,12 +99,12 @@ Avances
 
 Cuando el DJ considere oportuno puede otorgar avances a los jugadores para mejorar al personaje. 
 Con un avance se puede: 
-* Adquirir una ventaja
-* Aumentar una habilidad que esté igual o por encima de su atributo asociado
-* Aumentar dos habilidades que estén por debajo de su atributo asociado
-* Aumentar un atributo en un nivel de dado (sólo una vez por rango).
-* Eliminar permanentemente una desventaja menor.
-* Reducir una desventaja mayor a menor.
+* Adquirir una ventaja  
+* Aumentar una habilidad que esté igual o por encima de su atributo asociado  
+* Aumentar dos habilidades que estén por debajo de su atributo asociado  
+* Aumentar un atributo en un nivel de dado (sólo una vez por rango).  
+* Eliminar permanentemente una desventaja menor.  
+* Reducir una desventaja mayor a menor.  
 
 Tip: Se pueden "reservar" avances para gastar de golpe, bajo acuerdo con el DJ
 
