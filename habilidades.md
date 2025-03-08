@@ -23,7 +23,7 @@ Habilidades de Astucia
 |Investigar | Encontrar información escrita en varios tipos de fuentes.|
 |Medicina | La capacidad para diagnosticar y curar heridas o enfermedades, así como descifrar pistas forenses.|
 |Ocultismo | Conocimiento de sucesos, criaturas, historia y prácticas sobrenaturales.|
-|Ordenadores | Programación y facilidad para entrar en un sistema de computadoras.||Pelear (Agilidad)| Dominio del combate cuerpo a cuerpo, con armas o desarmado.
+|Ordenadores | Programación y facilidad para entrar en un sistema de computadoras.|
 |Provocar | Descalificar o engañar a otro, casi siempre como parte de un truco (pág. 107).|
 |Psiónica | La habilidad usada en el Trasfondo Arcano (Psiónica).|
 |Reparar | La capacidad de arreglar aparatos mecánicos y electrónicos.|
@@ -44,6 +44,7 @@ Habilidades de Agilidad
 |Disparar | Tu precisión con cualquier arma a distancia.|
 |Latrocinio | Trucos de manos, cortar bolsas, forzar cerraduras y otro tipo de empresas turbias.|
 |Navegar | Dirigir y pilotar un vehículo acuático, del tipo que sea.|
+|Pelear | Dominio del combate cuerpo a cuerpo, con armas o desarmado.|
 |Pilotar | Dominio de todos los vehículos que operan en un entorno tridimensional, como aviones, helicópteros o naves espaciales.|
 
 
