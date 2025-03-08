@@ -9,6 +9,7 @@
 
 * [Lista de desventajas](desventajas.md)
 * [Lista de ventajas](ventajas.md)
+* [Lista de habilidades](habilidades.md)
 
 [gimmick:themechooser](Escoge aspecto)
 
