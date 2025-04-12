@@ -7,29 +7,44 @@ Crear un personaje en Savage Worlds
 
 Sigue esta guía y vamos por partes:
 
+La ficha
+-----------
 
-Los Rasgos
+Ficha para la versión SWADE (Savage Worlds Adventure Edition).
+No es la ficha oficial, sino la realizada por [Phacemelter](https://www.reddit.com/user/Phacemelter/)
+El archivo pdf editable fue hecho por [Smilinirish](https://www.reddit.com/user/Smilinirish/).
+
+Yo me la encontré en [reddit](https://www.reddit.com/r/savageworlds/comments/b1502o/my_new_swade_character_sheet/?rdt=53682d)
+
+Eso sí, está en inglés.
+
+La [ficha](./recursos/SWADE%20Fillable%20by%20Phacemelter.pdf)
+Si la abres en una ventana nueva puedes ir rellenándola mientras sigues las instrucciones.
+
+
+
+Los Rasgos 
 ------------
 
 Se le llama rasgos tanto a las habilidades como a los atributos.
 
 Cuentan con los siguientes niveles: 0, d4, d6, d8, d10 y d12.
 
-### Los atributos
+### Los atributos (attributes)
 
-Tip: Hay cinco atributos: Agilidad, Astucia, Espíritu, Fuerza y Vigor.
+Tip: Hay cinco atributos: Agilidad (Agility), Astucia (Smarts), Espíritu (Spirit), Fuerza (Strenth) y Vigor (Vigor).
 
 Todos empiezan con un d4.
 Dispones de 5 puntos para gastar en mejorarlos.
-Cada punto que gastes aumenta un nivel a un atributo. 
+Cada punto que gastes aumenta un nivel a un atributo.
 
 
-### Las habilidades
+### Las habilidades (skills)
 
 
 Hay cinco habilidades básicas que tienen un nivel inicial de d4:
 
-Tip: Atletismo, Conocimientos Generales, Notar, Persuasión y Sigilo
+Tip: Atletismo (Athletics), Conocimientos Generales (Common Know), Notar (Notice), Persuasión (Persuasion) y Sigilo (Stealth).
 
 Las demás tienen un nivel inicial de cero. 
 
@@ -39,28 +54,36 @@ Tienes 12 puntos para comprar o subir habilidades:
 
 Subir una habilidad hasta el nivel de su atributo cuesta 1 punto.
 Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 puntos.
+Tienes la lista de habilidades (ordenadas por atributo que las rige) [aquí](habilidades.md)
 
 
-Valores derivados
+Valores derivados (Other Stats)
 ------------
- - El **Paso** mide lo rápido que se mueve un personaje en una ronda de combate:   
+ - El **Paso** (Pace) mide lo rápido que se mueve un personaje en una ronda de combate:   
      6 pasos.  
- - El **Tamaño** mide lo grande que es un personaje:  
-     Entre -1 y 3, lo normal es 0.  
- - La **Parada** mide lo difícil que es acertar a tu personaje:  
+ - El **Tamaño** (Size) mide lo grande que es un personaje:  
+     Entre -1 y 3, lo normal es 0.
+ - Los **Benis** (Bennies) permiten realizar acciones especiales:  
+     Empiezas con 3 por sesión. Más abajo hay más información.
+   
+
+Defensas (Defenses)
+-----------
+
+ - La **Parada** (Parry) mide lo difícil que es acertar a tu personaje:  
      2 + La mitad de caras del dado de Pelear.  
- - La **Dureza** mide la capacidad de absorver daño del personaje:  
+ - La **Dureza** (Toughness) mide la capacidad de absorver daño del personaje:  
      2 + La mitad de caras del dado de Vigor + cualquier protección.  
 
 
 Ventajas y desventajas
 ------------
-### Las desventajas
+### Las desventajas (Hindrances)
 
 Escoge desventajas que ayuden a definir a tu personaje.
 Anota si tus desventajas alteran algún rasgo.
 
-Tienes la lista de desventajas [aquí](https://samumseoane.github.io/RPGSavageWorldsApuntes/#!desventajas.md)
+Tienes la lista de desventajas [aquí](desventajas.md)
 
 Por cada desventaja menor cobra un punto y por cada desventaja mayor cobra 2 puntos. 
 Como máximo puedes acumular hasta 4 de estos puntos. 
@@ -73,17 +96,17 @@ Con cada punto de desventajas puedes
  - Subir un punto de habilidad
  - Duplicar los fondos iniciales del personaje.
 
-### Las ventajas
+### Las ventajas (Edges)
 
 Las ventajas tienen requisitos para poder adquirirse: 
 - Rango del personaje
 - Ventajas previas
 - Nivel mínimo de rasgo (atributo o habilidad)
 
-Tienes la lista de ventajas [aquí](https://samumseoane.github.io/RPGSavageWorldsApuntes/#!ventajas.md)
+Tienes la lista de ventajas [aquí](ventajas.md)
 
 
-Benis
+Benis (Bennies)
 ------------
 
 Al comienzo de toda sesión de juego, cada jugador recibe tres benis.
@@ -94,7 +117,7 @@ A cambio de un beni, un jugador puede:
  - Recuperarse de un aturdimiento.
 
 
-Avances
+Avances (Advancements)
 -----
 
 Cuando el DJ considere oportuno puede otorgar avances a los jugadores para mejorar al personaje. 
@@ -116,11 +139,11 @@ La forma de medir el desarrollo de un personaje es por los rangos que alcanza se
 
 | Avances | Rango | Símbolo |
 | :----: | ---- | :----: |
-| 0-3 | Novato| N |
-|4-7 | Experimentado| E |
-|8-11 |Veterano | V |
-|12-15 |Heroico | H |
-|16+ | Legendario | L |
+| 0-3 | Novato (Novice) | N |
+|4-7 | Experimentado (Seasoned) | E |
+|8-11 |Veterano (Veteran) | V |
+|12-15 |Heroico (Heroic) | H |
+|16+ | Legendario (Legendary) | L |
 
 
 
