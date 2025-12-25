@@ -3,6 +3,8 @@ Sumario de poderes
   
 Note: N= Novato, E= Experimentado, H= Heroico, L= Legendario, V= Veterano;
 
+Tip: Cuando escojas un poder, recuerda imaginar un ornamento apropiado al personaje. 
+
 Poderes para novato
 ----
 

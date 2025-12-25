@@ -56,6 +56,8 @@ Subir una habilidad hasta el nivel de su atributo cuesta 1 punto.
 Subir una habilidad un nivel por encima del que tiene su atributo cuesta 2 puntos.
 Tienes la lista de habilidades (ordenadas por atributo que las rige) [aquí](habilidades.md)
 
+Si estás haciendo un personaje con "poderes" échale un ojo a la sección de [trasfondo arcano](trasf_arcano.md).
+
 
 Valores derivados (Other Stats)
 ------------

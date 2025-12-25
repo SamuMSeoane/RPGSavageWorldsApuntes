@@ -54,3 +54,7 @@ Por diversas causas, un personaje puede alcanzar uno o varios de los siguientes 
 ## En espera _(Hold)_
 - Un personaje en espera puede aguantar su acción hasta que decida actuar, no vuelve a tirar iniciativa o sacar carta.
 - Si quiere interrumpir la acción de otro personaje puede hacerlo si gana una tirada enfrentada de Atletismo.
+
+
+<br>
+<br>
