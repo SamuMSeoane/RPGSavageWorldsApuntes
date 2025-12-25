@@ -10,6 +10,8 @@
 * [Lista de desventajas](desventajas.md)
 * [Lista de ventajas](ventajas.md)
 * [Lista de habilidades](habilidades.md)
+* [Lista de estados](estados.md)
+* [Lista de poderes](poderes.md)
 
 [gimmick:themechooser](Escoge aspecto)
 

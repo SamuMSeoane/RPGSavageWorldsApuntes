@@ -11,6 +11,8 @@ Pequeños apuntes para revisar antes de una partida de Savage Worlds
 - [Mecánica de un combate](combate.md)
 - [Ventajas](ventajas.md) y [desventajas](desventajas.md)
 - [Habilidades](habilidades.md)
+- [Estados](estados.md)
+- [Poderes](poderes.md)
 
 
 <br>
