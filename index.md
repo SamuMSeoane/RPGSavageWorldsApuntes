@@ -9,6 +9,7 @@ Pequeños apuntes para revisar antes de una partida de Savage Worlds
 - [Crear un personaje](creacionpjsw.md)
 - [Realizar una acción](acciones.md)
 - [Mecánica de un combate](combate.md)
+- [PJs con trasfondo arcano](trasf_arcano.md)
 - [Listas de Ventajas](ventajas.md) y [desventajas](desventajas.md)
 - [Lista de Habilidades](habilidades.md)
 - [Lista de Estados](estados.md)
