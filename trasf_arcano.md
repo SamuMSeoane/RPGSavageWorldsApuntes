@@ -61,5 +61,8 @@ Crear un artefacto
 Pociones, artilugios, reliquias... 
 Requiere la ventaja **Artífice**
 Consume una hora por poder a activar.
-El artífice transfiere hasta 5PP al artefacto y los recupera sólo después de que se hayan consumido.  
+El artífice transfiere hasta 5PP al artefacto y los recupera sólo después de que se hayan consumido.
+
+<br>
+<br>
 

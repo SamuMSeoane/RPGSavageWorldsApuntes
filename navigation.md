@@ -3,8 +3,9 @@
 [Inicio](index.md)
 [Creación de pj](creacionpjsw.md)
 [Resolver acciones](acciones.md)
-[Combate y salud](combate.md)
 [Trasfondo arcano](trasf_arcano.md)
+[Combate y salud](combate.md)
+
 
 [Listas]()
 

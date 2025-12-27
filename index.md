@@ -42,4 +42,5 @@ Note: “This game references the Savage Worlds game system, available from Pinn
 
 Más info sobre las licencias de Savage World [aquí](https://htpublishers.es/licencias-para-savage-worlds/)
 
-<br><br>
+<br>
+<br>
